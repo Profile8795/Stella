@@ -1,0 +1,66 @@
+body {
+  background-color: #001122;
+  background-size: 100%;
+  height: auto;
+  width: auto;
+  text-align: right;
+  justify-content: right;
+  align-items: right;
+  padding: 0px;
+  align-content: right;
+  
+  
+}
+.info {
+  font-size: 3vh;
+  padding: 0px;
+  margin-bottom: 20%;
+  padding-top: 0px;
+  color: white;
+}
+.det {
+  padding: 0px;
+  margin: 0px;
+  font-size: 4vh;
+  color: #007799;
+}
+.pics {
+  height: auto;
+  width: auto;
+  margin-bottom: 20%;
+}
+.pic1 {
+  height: 100%;
+  width: 100%;
+}
+p {
+  text-align: right;
+  justify-content: right;
+  align-items: right;
+  align-content: right;
+}
+.pp {
+  height: 100%;
+  width: 100%;
+}
+.p1 {
+  justify-content: fit;
+}
+.dow {
+  height: 10vh;
+  width: 10vh;
+}
+.ils {
+  display: flex;
+}
+.dlo {
+  text-decoration: none;
+  color: white;
+  font-size: 3vh;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
